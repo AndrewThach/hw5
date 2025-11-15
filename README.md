@@ -40,4 +40,8 @@ T2 - low priority-3
    IIC) Offset = 2^14 = 14 bits => 64 - 14 = 50 bits
    IID) 34 - 14 = 20 bits
    IIE 2^14 = 14 bits
-   
+
+   Sources
+   https://documentation.ubuntu.com/real-time/latest/explanation/priority-inversion-inheritance/
+   https://learn.microsoft.com/en-us/windows/win32/procthread/priority-inversion
+   https://www.digikey.com/en/maker/projects/introduction-to-rtos-solution-to-part-11-priority-inversion/abf4b8f7cd4a4c70bece35678d178321
